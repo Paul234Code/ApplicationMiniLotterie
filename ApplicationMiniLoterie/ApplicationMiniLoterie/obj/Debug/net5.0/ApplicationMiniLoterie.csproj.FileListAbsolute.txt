@@ -1,0 +1,16 @@
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\bin\Debug\net5.0\ApplicationMiniLoterie.exe
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\bin\Debug\net5.0\ApplicationMiniLoterie.deps.json
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\bin\Debug\net5.0\ApplicationMiniLoterie.runtimeconfig.json
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\bin\Debug\net5.0\ApplicationMiniLoterie.runtimeconfig.dev.json
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\bin\Debug\net5.0\ApplicationMiniLoterie.dll
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\bin\Debug\net5.0\ref\ApplicationMiniLoterie.dll
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\bin\Debug\net5.0\ApplicationMiniLoterie.pdb
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.csproj.AssemblyReference.cache
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.AssemblyInfoInputs.cache
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.AssemblyInfo.cs
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.csproj.CoreCompileInputs.cache
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.dll
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ref\ApplicationMiniLoterie.dll
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.pdb
+C:\Users\14182\source\repos\ApplicationMiniLoterie\ApplicationMiniLoterie\obj\Debug\net5.0\ApplicationMiniLoterie.genruntimeconfig.cache
